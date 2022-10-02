@@ -38,5 +38,5 @@
 
 🌟 python free.py
 
-💠 THANKS
+💠 THANKSS
 
